@@ -1,0 +1,9 @@
+{
+  "devices": {
+    "PF5": {
+      "version": "1.1",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/PF5/main/1.1.bin",
+      "force": false
+    }
+  }
+}
